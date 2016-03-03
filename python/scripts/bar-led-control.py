@@ -29,7 +29,7 @@ def led_toggle(led_number, state):
 
 
 def wan_online():
-  hostname = "basstech.net"
+  hostname = "horan.hk"
   connection_response = os.system("ping -c 2 " + hostname)
   return connection_response
 
