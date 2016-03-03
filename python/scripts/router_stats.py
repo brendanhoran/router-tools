@@ -7,7 +7,7 @@ import psutil
 
 # Must set LAN and WAN interfaces
 LAN_INT = "em0"
-WAN_INT = "lo0"
+WAN_INT = "ix0"
 
 
 def interface_stats():
