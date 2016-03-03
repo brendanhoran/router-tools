@@ -6,7 +6,6 @@ sys.path.append('/opt/router-tools/python/lib/')
 
 import time
 import datetime
-import threading
 import router_stats
 
 # LCD layout notes
