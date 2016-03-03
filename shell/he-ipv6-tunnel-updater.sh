@@ -4,6 +4,7 @@
 #   and also update HE(tunnelbroker) with the new end point IP
 #   This also depends on a line in /etc/rc.local :
 #   "/sbin/ifconfig ix0 | grep inet | cut -c 7-21 | xargs > /tmp/.wan-ip"
+#   where ix0 is my WAN interface
 
 
 ### Variables that must be set ###
