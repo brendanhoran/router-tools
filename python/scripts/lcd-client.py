@@ -23,7 +23,7 @@ def write_to_lcd():
     screen1 = lcd.add_screen("screen1")
     screen1.set_heartbeat("off")
 
-    system_uptime = os.popen('uptime | cut -c 13-17').read()
+    system_uptime = os.popen('uptime | cut -c 13-18').read()
     system_uptime = system_uptime.rstrip()
 
     (lan_bytes_rx, lan_bytes_tx, wan_bytes_rx, wan_bytes_tx,
