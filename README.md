@@ -2,7 +2,7 @@
 
 # Overview
 #### Why do this?  
-I got sick of trying to find a decent vendor device to support 1gbit+ WAN connections in Hong Kong.
+I got sick of trying to find a decent vendor device to support 1gbit+ WAN connections in Hong Kong.     
 So that means building my own router, thus I wanted some nice LED's / LCD to quick feedback.
 #### What does it support
 Currently OpenBSD (5.8) However aside from the LCDproc (LCDd) binary the python code should work on any device.
