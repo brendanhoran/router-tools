@@ -5,7 +5,7 @@
 I got sick of trying to find a decent vendor device to support 1gbit+ WAN connections in Hong Kong.     
 So that means building my own router, thus I wanted some nice LED's / LCD to provide quick feedback.
 #### What does it support
-Currently OpenBSD (5.8) However aside from the LCDproc (LCDd) binary the python code should work on any device.
+Currently OpenBSD (5.9) However aside from the LCDproc (LCDd) binary the python code should work on any device.
 #### what will the tools give me?
 1. A status LCD that shows traffic,load and uptime information
 2. A barLED that shows connectivity states
