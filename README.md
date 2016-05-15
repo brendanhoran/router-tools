@@ -18,7 +18,10 @@ The project has four main hardware parts
 2. Till Harbaum's GLCD2USB board
 3. Arduino nano (ATmega328)
 4. Five segment bar LED
-Miscilanious parts : usb cable, usb hub, plastic project box
+Miscilanious parts :
+* usb cable 
+* usb hub 
+* plastic project box
 
 # Software
 The projects make heavy use of    
