@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.4
+#!/usr/local/bin/python3.6
 
 import os
 import sys
