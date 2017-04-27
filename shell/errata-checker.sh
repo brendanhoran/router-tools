@@ -2,9 +2,7 @@
 # Description :
 #  A simple script designed to run from crontab to check for new errata.
 
-# Set the following :
-# openbsd version running 
-obsd_version="59"
+obsd_version=`sysctl kern.osrelease | cut -c 16-18 | tr -d '.'`
 # Where to send email report to
 email_rcpt="brendan@horan.hk"
 
