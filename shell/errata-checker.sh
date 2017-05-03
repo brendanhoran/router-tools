@@ -4,7 +4,7 @@
 
 # Set the following :
 # Where to send email report to
-email_rcpt="admin@basstech.net"
+email_rcpt="your@email-address.net"
 # end settings
 
 applied_errata=`/usr/sbin/syspatch -l`
